@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1517430816045-df4b7de01fdd",
+        "course_name": "Introduction to Computer Science",
+        "credit": 3,
+        "price": 300,
+        "details": "This course covers the basics of computer science, including programming, algorithms, and data structures."
+    },
+    {
+        "id": 2,
+        "image": "https://images.unsplash.com/photo-1538318510892-a33d6c4c7f0a",
+        "course_name": "Advanced Mathematics",
+        "credit": 4,
+        "price": 400,
+        "details": "An in-depth course on advanced mathematical concepts such as calculus, linear algebra, and differential equations."
+    },
+    {
+        "id": 3,
+        "image": "https://images.unsplash.com/photo-1581090700227-9604e28ef285",
+        "course_name": "Business Management",
+        "credit": 3,
+        "price": 350,
+        "details": "Learn the principles of business management, including leadership, strategy, and organizational behavior."
+    },
+    {
+        "id": 4,
+        "image": "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c",
+        "course_name": "Graphic Design",
+        "credit": 2,
+        "price": 250,
+        "details": "A comprehensive course on graphic design, covering topics such as typography, color theory, and digital illustration."
+    },
+    {
+        "id": 5,
+        "image": "https://images.unsplash.com/photo-1555435021-8e63bcb8f56b",
+        "course_name": "Introduction to Psychology",
+        "credit": 3,
+        "price": 300,
+        "details": "Explore the fundamentals of psychology, including cognitive, behavioral, and social psychology."
+    },
+    {
+        "id": 6,
+        "image": "https://images.unsplash.com/photo-1507914374509-a4d203e94dc1",
+        "course_name": "Marketing Fundamentals",
+        "credit": 3,
+        "price": 320,
+        "details": "An introductory course on marketing, covering topics such as market research, consumer behavior, and advertising."
+    },
+    {
+        "id": 7,
+        "image": "https://images.unsplash.com/photo-1523528283118-7fcd6c35d92d",
+        "course_name": "Environmental Science",
+        "credit": 4,
+        "price": 400,
+        "details": "Study the science of the environment, including ecosystems, climate change, and conservation strategies."
+    },
+    {
+        "id": 8,
+        "image": "https://images.unsplash.com/photo-1535914254981-b5012eebbd15",
+        "course_name": "Creative Writing",
+        "credit": 2,
+        "price": 200,
+        "details": "Develop your writing skills in this course focused on creative writing, including fiction, poetry, and creative non-fiction."
+    },
+    {
+        "id": 9,
+        "image": "https://images.unsplash.com/photo-1541849548-8a1f35f7d4c2",
+        "course_name": "History of Art",
+        "credit": 3,
+        "price": 310,
+        "details": "Discover the history of art from ancient times to the modern era, including key movements and influential artists."
+    }
+]
