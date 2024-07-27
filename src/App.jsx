@@ -1,14 +1,18 @@
 import './App.css'
 import Blogs from './components/Blogs/Blogs'
-import Header from './components/Header/Header'
+import Courses from './components/Courses/Courses'
 
 function App() {
 
 
   return (
     <>
-      <Header></Header>
-      <Blogs></Blogs>
+      <h1 className='text-4xl font-bold text-center my-6'>Course Registration</h1>
+      <div className='md:flex'>
+        <Blogs></Blogs>
+        <Courses></Courses>
+
+      </div>
 
 
     </>
