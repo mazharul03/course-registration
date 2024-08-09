@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "https://images.unsplash.com/photo-1517430816045-df4b7de01fdd",
+        "image": "https://images.unsplash.com/photo-1535223289827-42f1e9919769",
         "course_name": "Introduction to Computer Science",
         "credit": 3,
         "price": 300,
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "image": "https://images.unsplash.com/photo-1538318510892-a33d6c4c7f0a",
+        "image": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc",
         "course_name": "Advanced Mathematics",
         "credit": 4,
         "price": 400,
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "image": "https://images.unsplash.com/photo-1581090700227-9604e28ef285",
+        "image": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9",
         "course_name": "Business Management",
         "credit": 3,
         "price": 350,
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "image": "https://images.unsplash.com/photo-1555435021-8e63bcb8f56b",
+        "image": "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d",
         "course_name": "Introduction to Psychology",
         "credit": 3,
         "price": 300,
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "image": "https://images.unsplash.com/photo-1507914374509-a4d203e94dc1",
+        "image": "https://images.unsplash.com/photo-1562564055-71e051d33c19",
         "course_name": "Marketing Fundamentals",
         "credit": 3,
         "price": 320,
@@ -49,7 +49,7 @@
     },
     {
         "id": 7,
-        "image": "https://images.unsplash.com/photo-1523528283118-7fcd6c35d92d",
+        "image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c",
         "course_name": "Environmental Science",
         "credit": 4,
         "price": 400,
@@ -65,7 +65,7 @@
     },
     {
         "id": 9,
-        "image": "https://images.unsplash.com/photo-1541849548-8a1f35f7d4c2",
+        "image": "https://images.unsplash.com/photo-1521747116042-5a810fda9664",
         "course_name": "History of Art",
         "credit": 3,
         "price": 310,
