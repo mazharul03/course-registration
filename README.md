@@ -1,12 +1,12 @@
 3 Project Features of the Course Selection App:
 
-# Course Selection with Credit Validation:
+- Course Selection with Credit Validation:
 The app allows users to select courses while ensuring that the same course cannot be selected twice. When a user attempts to add a duplicate course, a toast notification alerts them that the course is already selected. This enhances the user experience by preventing redundant course selections.
 
-# Total Credit and Remaining Credit Hours Display:
+- Total Credit and Remaining Credit Hours Display:
 A dynamic feature that tracks the total credit hours of selected courses. If adding a course exceeds the maximum allowable credits (20 hours), a toast notification alerts the user. Additionally, it calculates and displays the remaining credit hours after each course selection, ensuring that the user can track their available credits in real-time.
 
-# Sorted Course List:
+- Sorted Course List:
 After a course is added, the app sorts the selected courses in alphabetical order by course name. This provides a clear and organized view of the selected courses. Sorted lists make it easier for users to view and manage their selections, improving the app's usability.
 
 
