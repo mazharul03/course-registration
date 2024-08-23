@@ -2,7 +2,7 @@
     {
         "id": 1,
         "image": "https://images.unsplash.com/photo-1535223289827-42f1e9919769",
-        "course_name": "Introduction to Computer Science",
+        "course_name": "Basics Computer Science",
         "credit": 3,
         "price": 300,
         "details": "This course covers the basics of computer science, including programming, algorithms, and data structures."
