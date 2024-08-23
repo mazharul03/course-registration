@@ -15,27 +15,27 @@ After a course is added, the app sorts the selected courses in alphabetical orde
 
 # blogs State:
 
-# Purpose: 
+Purpose: 
 Holds the list of all blogs (courses) fetched from the blogs.json file.
-# Initialization: 
+Initialization: 
 The state is initialized as an empty array (const [blogs, setBlogs] = useState([]);).
-# Data Fetching: 
+Data Fetching: 
 The blog data is fetched inside a useEffect hook, and the setBlogs function updates the blogs state once the data is loaded from the API.
 
 #  courseName State:
 
-# Purpose: 
+Purpose: 
 Stores the list of courses selected by the user.
-# Initialization: 
+Initialization: 
 It is initialized as an empty array (const [courseName, setCourseName] = useState([]);).
-# Updating the State: 
+Updating the State: 
 When the user adds a new course, the app checks if the course has already been selected. If not, the course is added to the courseName state, and the list is sorted alphabetically.
 
 #  totalCredits State:
 
-#   Purpose: 
+Purpose: 
 Tracks the total number of credit hours the user has accumulated by selecting courses.
-# Initialization: 
+Initialization: 
 It is initialized to 0 (const [totalCredits, setTotalCredits] = useState(0);).
-# Updating the State: 
+Updating the State: 
 Every time a course is selected, its credits are added to the totalCredits state. If adding the course exceeds the maximum allowed credits (20), the app prevents the course from being added.
